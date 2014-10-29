@@ -6,7 +6,7 @@ javascript版实现贝塞尔曲线动画插件, 支持1-3次方曲线，也就�
 安装
 ======
 ```
-bower install fBezier
+bower install f-bezier
 ```
 使用
 ======
