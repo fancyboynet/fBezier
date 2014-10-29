@@ -1,0 +1,25 @@
+{
+  "name": "fBezier",
+  "main": "fBezier.js",
+  "version": "0.0.1",
+  "authors": [
+    "fancy <fancyboynet@gmail.com>"
+  ],
+  "description": "javascript版实现贝塞尔曲线动画插件",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "bezier"
+  ],
+  "license": "MIT",
+  "homepage": "http://fancyboy.net/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
