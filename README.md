@@ -3,6 +3,10 @@ fBezier
  
 javascript版实现贝塞尔曲线动画插件, 支持1-3次方曲线，也就是最多两个控制点。
 
+Simple demo
+======
+[http://jsfiddle.net/nczomude/](http://jsfiddle.net/nczomude/)
+
 安装
 ======
 ```
